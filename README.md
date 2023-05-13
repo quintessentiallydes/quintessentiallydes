@@ -1,11 +1,11 @@
-<h1>Hi, I'm Desdemona! <br/><a href="https://www.linkedin.com/in/desdemo/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Desdemona, a <a href="https://www.linkedin.com/in/desdemo/">cybersecurity professional</a>!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Project Name</b>
   - [xxx](https://github.com/xxx)
 - <b>Project Name</b>
-  - [xxx](https://github.com/xxx) <b><i>(Potentially NSFW)</b></i>
+  - [xxx](https://github.com/xxx)
 - <b>Project Name</b>
   - [xxx](https://github.com/xxx)
 
