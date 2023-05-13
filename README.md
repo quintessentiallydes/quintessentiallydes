@@ -1,4 +1,4 @@
-<h1>Hi, I'm Desdemona, a <a href="https://www.linkedin.com/in/desdemo/">cybersecurity professional</a>!</h1>
+<h1>Hi! I'm Desdemona, a <a href="https://www.linkedin.com/in/desdemo/">cybersecurity professional</a>.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
